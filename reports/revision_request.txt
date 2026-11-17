@@ -1,0 +1,35 @@
+
+You are reviewing a human product manager's feedback.
+
+Product: StudyFlow (fictional student productivity app)
+
+CURRENT VERIFIED FEATURE RANKINGS:
+1. Deadline Reminders: 8.34
+2. Calendar: 6.75
+3. Performance & Stability: 5.49
+4. Dark Mode: 4.59
+5. Cross-Device Sync: 4.07
+6. Study Hour Tracking: 2.75
+7. Study Progress Dashboard: 2.70
+
+HUMAN REVISION REQUEST:
+Reconsider Calendar because students need better scheduling.
+
+YOUR TASK:
+
+1. Carefully evaluate the human's concern.
+2. Compare the relevant features.
+3. Explain the trade-offs.
+4. Decide whether the original recommendation
+   should remain unchanged or be revised.
+5. Clearly explain your reasoning.
+
+IMPORTANT RULES:
+
+- Treat the supplied rankings as verified calculations.
+- Do not invent new priority scores.
+- Do not silently modify the scoring formula.
+- A human may reasonably choose a lower-ranked feature.
+- Clearly distinguish calculated ranking from product judgment.
+- Do not generate a PRD.
+- Do not claim that any feature has been approved.

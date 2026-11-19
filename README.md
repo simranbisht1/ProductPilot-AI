@@ -8,6 +8,10 @@ Example input:
 
 > StudyFlow users are missing deadlines. We need to improve student productivity and engagement. What should we build next?
 
+## Architecture
+
+![ProductPilot AI agent architecture](docs/architecture.png)
+
 ## How it works
 
 ```mermaid
